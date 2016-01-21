@@ -14,6 +14,6 @@ module.exports = function (grunt) {
 	});
 	
 	grunt.loadNpmTasks('grunt-exec');
-	grunt.registerTask('add-android',['exec:addAndroid']);
+	grunt.registerTask('build-android',['exec:addAndroid','exec:buildAndroid']);
 	grunt.registerTask('remove-android',['exec:removeAndroid']);
 };

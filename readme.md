@@ -6,6 +6,8 @@ This application is created to demonstrate the basics of Cordova hooks and Grunt
 * Navigate to the root folder of the application
 * Run the below command
 
+    npm install -g cordova grunt-cli
+    
     npm install
     
     grunt add-android
