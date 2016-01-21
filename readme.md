@@ -1,4 +1,4 @@
-# Cordova hooks Demo
+# Cordova Hooks Demo
 This application is created to demonstrate the basics of Cordova hooks and Grunt
 
 ## Running the application
